@@ -1,0 +1,7 @@
+name: 'retail'
+target-path: "/usr/local/airflow/include/dbt/"
+profile: 'retail'
+
+models:
+  retail:
+    materialized: table

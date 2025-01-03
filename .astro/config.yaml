@@ -1,0 +1,8 @@
+project:
+    name: retail-price
+postgres:
+  port: 5433
+webserver:
+  port: 8081
+# env:
+#   AIRFLOW__CORE__SQL_ALCHEMY_CONN: "postgresql+psycopg2://postgres:Noitoi471@postgres:5432/postgres"
